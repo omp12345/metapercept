@@ -1,0 +1,46 @@
+
+.clases {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.h5 {
+    font-size: larger;
+    opacity: 0.6;
+}
+
+.data-show {
+    display: grid;
+    width: 80%;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.data_div {
+    width: 100%;
+
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    gap: 5px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+.data-show img {
+    width: 100%;
+}
+
+.op {
+    width: 50px;
+    margin-right: 200px;
+}
+
+.lorem {
+    width: 80%;
+    margin: auto;
+
+}
